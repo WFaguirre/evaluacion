@@ -1,0 +1,139 @@
+body{
+    background-color:  #8e8e8a ;
+    
+}
+
+nav{
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    
+}
+
+h1{
+    margin-bottom:0%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: start;
+    margin-right:500px;
+    
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px;
+    border-radius: 20%;
+    font-size: 20px;
+    
+}
+
+.box p:hover{
+    background-color: aliceblue;
+    color: #1f1f1f;
+}
+
+.box p{
+    background-color:  #1f1f1f ;
+    color: aliceblue;
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+    font-family: Encode Sans Expanded;
+
+}
+
+header{
+    width: 1000px;
+    height: 300px;
+
+}
+
+.marco{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    
+}
+
+.banner{
+    width: 800px;
+    height: 300px;
+    
+}
+
+.logo{
+    background: linear-gradient( #f8f803 , #85f803 , #03f8d3 );
+    width:200px;
+    height: 100px;
+    text-align: center;
+}
+
+.login{
+    width: 200px;;
+    height: 100px;
+
+}
+
+.form{
+    width:200px;
+    height: 95px;
+
+}
+
+main{
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+
+
+.left{
+    width: 200px; 
+}
+
+article{
+    width: 500px;
+}
+
+
+.right{
+    width: 300px;
+}
+
+footer{
+    height:50px;
+    width: 1000px;
+    margin-top: 30px;
+}
+
+.pie p{
+    text-align:center;
+    font-family: Encode Sans Expanded;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+
+#compañia{
+    font-family:Workbench;
+    font-size: 25px;
+}
+
+#user{
+    margin: 20px 20px 0 ;
+}
+
+#password{
+    margin:5px 20px 0px;
+
+}
+
+#enviar{
+    margin:5px 20px 0px;
+}
